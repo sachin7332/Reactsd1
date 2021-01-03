@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@1,300&family=Redressed&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Mulish&display=swap');
+
+*
+{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+font-family: 'Mulish', sans-serif;
+
+}
+
+.nav_c
+{
+
+  background-color: rgb(193, 193, 252);
+}
+
+.hh:hover
+{
+font-style: normal;
+  background-color: rgba(219, 218, 218, 0.5);
+  border-bottom: 1px solid rgb(88, 84, 84);
+  
+
+
+}
+
+.img_h
+{
+
+  height: 150px;
+}
+
